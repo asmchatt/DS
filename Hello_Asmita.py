@@ -10,5 +10,6 @@ else:
    if thirsty == "yes":
      print("drink water")
    else:
-     print("dont drink water")   
+     print("dont drink water")
+	 print("add soda  as well")
    print("do your hw")
