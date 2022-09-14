@@ -1,5 +1,5 @@
 flask==2.0.3
-speech_recognition==3.8.1
+speech_recognition
 googletrans==4.0.0-rc.1
 gtts==2.2.4
 pandas==1.1.1
